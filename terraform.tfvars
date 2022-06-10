@@ -1,20 +1,5 @@
-resource "aws_instance" "footbar" {
-    ami = "ami-079b5e5b3971bd10d"
-    instance_type = "t2.micro"
-    tags = {
-      Name = "tf"
-    }
-}
-
-
-resource "aws_instance" "footbar-new" {
-    ami = "ami-079b5e5b3971bd10d"
-    instance_type = "t2.micro"
-    count = 1
-    tags = {
-      Name = "tf-new"
-    }
-    lifecycle {
-      prevent_destroy= true
-    }
-}
+AWS_ACCESS_KEY = "AKIA3MKHCL2OZJLBQLXQ"
+AWS_SECRET_KEY = "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"
+AWS_REGION = "ap-south-1"
+PROJECT_NAME = "telelaw-staging"
+BUCKET_NAME = "telelaw-staging"
