@@ -1,0 +1,162 @@
+{
+	"meta": {
+		"code": 200
+	},
+	"aria": {
+		"ariaStatus": "true",
+		"user_msg": "Our systems are currently undergoing routine maintenance. We like to keep them in good shape!\nPlease come back and retry after 8:30 PM PDT. Thank you for your patience."
+	},
+	"xCloud": {
+		"xCloudStatus": "true",
+		"user_msg": "xCloud services under maintenance from 10:00 AM to 06:00 PM"
+	},
+	"cep": {
+		"cepStatus": "true",
+		"user_msg": "User cep services under maintenance from 10:00 AM to 06:00 PM"
+	},
+	"oneCloud": {
+		"oneCloud": "true",
+		"user_msg": "User services under maintenance from 10:00 AM to 06:00 PM"
+	},
+	"supported_countries": [
+		"AT",
+		"BE",
+		"BG",
+		"CY",
+		"CZ",
+		"DE",
+		"DK",
+		"EE",
+		"ES",
+		"FI",
+		"FR",
+		"GR",
+		"HR",
+		"HU",
+		"IE",
+		"IT",
+		"LT",
+		"LU",
+		"LV",
+		"MT",
+		"NL",
+		"PL",
+		"PT",
+		"RO",
+		"SE",
+		"SI",
+		"SK"
+	],
+	"paypal_nonsupported_country": [
+		"CA",
+		"KR"
+	],
+	"sdk_supported_fa_plans": {
+		"armor": {
+			"type": "NDE3MjZENkY3Mg==",
+			"trial": "MzkzMDMwMzAzMDMw"
+		},
+		"circle": {
+			"type": "NTA2MTcyNjU2RTc0NjE2QzJGNDM2OTcyNjM2QzY1MjA2MzZGNkU3NDcyNkY2Qw==",
+			"trial": "MzkzMDMwMzAzMDMx"
+		}
+	},
+	"prosupport_incident_rate": {
+		"US": "49.99",
+		"CA": "64.99",
+		"GB": "34.99",
+		"AU": "69.99",
+		"NZ": "69.99",
+		"FR": "39.99",
+		"DE": "39.99",
+		"IT": "39.99"
+	},
+	"gearhead_incident_rate": {
+		"US": "49.99",
+		"CA": "64.99",
+		"GB": "34.99",
+		"AU": "69.99",
+		"NZ": "69.99",
+		"FR": "39.99",
+		"DE": "39.99",
+		"IT": "39.99"
+	},
+	"threeds_supported_countries": [
+		"AT",
+		"BE",
+		"BG",
+		"CH",
+		"CY",
+		"CZ",
+		"DE",
+		"DK",
+		"EE",
+		"ES",
+		"FI",
+		"FR",
+		"GB",
+		"GR",
+		"HR",
+		"HU",
+		"IE",
+		"IT",
+		"LT",
+		"LU",
+		"LV",
+		"MT",
+		"NL",
+		"NO",
+		"PL",
+		"PT",
+		"RO",
+		"SE",
+		"SI",
+		"SK"
+	],
+	"netgear_supported_phones": {
+		"FR": "01 85 14 80 96",
+		"DE": "0180 69 05959",
+		"AU": "1300 361 254",
+		"NZ": "0800 174 600",
+		"CA": "888-638-4327 / 877-875-1880",
+		"SE": "0770 930033",
+		"DK": "8070 2666",
+		"NO": "800 12500",
+		"IE": "+44 344 875 4000",
+		"FI": "0981 710 557",
+		"GB": "888-638-4327",
+		"US": "1-888-NETGEAR",
+		"IT": "02 3859 8070",
+		"ES": "900 938 704",
+		"BE": "0262 68 730",
+		"AT": "08 008 03507",
+		"NL": "020-721-9080",
+		"LU": "+33 185 148 096 (French) / +49 1806 905 959 (German)"
+	},
+	"game_booster_services": {
+		"frequency": "12 Months",
+		"promotion_value": "(90% off original $49.99/year)"
+	},
+	"netduma_success_loader_timeout": "2500",
+	"COSTCO_CC_FLOW": {
+		"Header_text_1": "Add credit card",
+		"CC_para_1": "To activate your Armor subscription, enter your credit card info.",
+		"CC_para_2": "Remember, your first year is free and you will not be charged now.",
+		"TYS_header": "Confirmation",
+		"TYS_Confirmation_header": "Initiating Armor protection",
+		"TYS_Para_text": "We're setting up your network security now. You'll be covered for a full year at no charge."
+	},
+	"NetgearPlus":{
+		"Header_Title":"Netgear+",
+		"Header_Title_Text":"An all-in-one membership that maximizes your WiFi.",
+		"Page_Bullets":"Built-in protection from hacking and cyberthieves$$Automatic protection for all smart devices connected to the network$$Exclusive 24/7 access to expert phone support$$Extended warranty provides a second year of hardware coverage (2 years total)$$Access to new privacy and performance features as they’re added",
+		"Subscribe_Now_Text":"Subscribe now for",
+		"Subscribe_Now_Action_Text":"Subscribe"
+	
+
+
+	},
+	"lifeTimeArtPromoCode":"true",
+	"maxCCAttempts":10
+
+}
